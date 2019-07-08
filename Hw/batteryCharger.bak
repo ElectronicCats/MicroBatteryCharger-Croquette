@@ -21,6 +21,7 @@ F 0 "U1" H 5700 3700 50  0000 C CNN
 F 1 "MCP73831-2-OT" H 6300 3700 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-5" H 6000 3200 50  0001 L CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" H 5800 3400 50  0001 C CNN
+F 4 "MCP73831T-5ACI/OT" H 5950 3450 50  0001 C CNN "manf#"
 	1    5950 3450
 	1    0    0    -1  
 $EndComp
