@@ -1,0 +1,14 @@
+
+.DS_Store
+
+Hw/_saved_batteryCharger.pro
+
+*.bak
+
+*.csv
+
+*.kicad_pcb-bak
+
+Hw/batteryCharger.xml
+
+*.xml
