@@ -1,4 +1,4 @@
-# Electronic Cats Micro Lipo/Lion Battery Charger
+# Electronic Cats Croquette Micro Lipo/Lion Battery Charger
 
 This little lipo charger is so small and easy to use you can keep it on your desk or mount it easily into any project! A 3.7V/4.2V lithium polymer or lithium ion rechargeable battery into the connectors. There are two LEDs - one red and one green. While charging, the red LED is lit. When the battery is fully charged and ready for use, the green LED turns on. Seriously, it could not get more easy.
 
