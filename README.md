@@ -16,6 +16,7 @@ Charging is performed in three stages: first a preconditioning charge, then a co
 Electronic Cats invests time and resources providing this open source design, please support Electronic Cats and open-source hardware by purchasing products from Electronic Cats!
 
 ### License
+![OpenSourceLicense](https://github.com/ElectronicCats/AjoloteBoard/raw/master/OpenSourceLicense.png)
 
 MIT
 
